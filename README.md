@@ -1,4 +1,8 @@
+🛡️ K Shri Raksha – Cybersecurity Portfolio
 
+This is my personal portfolio showcasing my journey in Cybersecurity, including my projects, skills, certifications, and achievements. It highlights my passion for ethical hacking, web security, and technology innovation.
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
